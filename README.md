@@ -7,23 +7,18 @@
 ## App Screenshots
 
 
+### App Screenshots
 
-### Home Screen
-![Home Screen](./src/assets/images/everyPenny8.jpeg)
+#### Home Screen
+<img src="./src/assets/images/everyPenny8.jpeg" width="300" />
 
-
-
-### Transaction Details
-![Transaction Details](./src/assets/images/)
-
-
-![](./src/assets/images/everypenney.jpeg)
-![](./src/assets/images/everrypenny2.jpeg)
-![](./src/assets/images/everyPenny.jpeg)
-![](./src/assets/images/everyPenny1.jpeg)
-![](./src/assets/images/everypenny3.jpeg)
-![](./src/assets/images/everypenny4.jpeg)
-![](./src/assets/images/everyPenny6.jpeg)
-![](./src/assets/images/everyPenny7.jpeg)
-
-![](./src/assets/images/evreryPenny5.jpeg)
+#### Transaction Details
+<img src="./src/assets/images/everypenney.jpeg" width="300" />
+<img src="./src/assets/images/everrypenny2.jpeg" width="300" />
+<img src="./src/assets/images/everyPenny.jpeg" width="300" />
+<img src="./src/assets/images/everyPenny1.jpeg" width="300" />
+<img src="./src/assets/images/everypenny3.jpeg" width="300" />
+<img src="./src/assets/images/everypenny4.jpeg" width="300" />
+<img src="./src/assets/images/everyPenny6.jpeg" width="300" />
+<img src="./src/assets/images/everyPenny7.jpeg" width="300" />
+<img src="./src/assets/images/evreryPenny5.jpeg" width="300" />
